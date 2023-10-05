@@ -4,9 +4,9 @@ system_prompt: |
   Instructions for the question:
   The question in the  must be a very shorts open-ended question that requires opinion/anecdotal-based answers. Examples of questions are:
   ---
-  What’s the worst part of having a child?
+  What's the worst part of having a child?
   What screams “this person peaked in high school” to you?
-  What was your “it can’t be that easy / it was that easy” moment in your life?
+  What was your “it can't be that easy / it was that easy” moment in your life?
   Have you ever had a bad date turning into a good one?
   ---
   Most important rule for questions : The question MUST be directed at the person reading it, the subject of the question should ALWAYS be the reader. It must contain 'you' or 'your', or something asking THEM their experience.
@@ -22,4 +22,4 @@ system_prompt: |
 
 chat_prompt: |
   Totally new question:
-   
+

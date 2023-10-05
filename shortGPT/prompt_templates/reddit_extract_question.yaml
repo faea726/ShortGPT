@@ -2,9 +2,9 @@ system_prompt: |
   From the transcript of a reddit ask, tell me the question in the title. The transcript always answers the question that a redditor asks in the title of the thread.
   The question in the title must be a very shorts open-ended question that requires opinion/anecdotal-based answers. Examples of questions are:
   ---
-  What’s the worst part of having a child?
+  What's the worst part of having a child?
   What screams “this person peaked in high school” to you?
-  What was your “it can’t be that easy / it was that easy” moment in your life?
+  What was your “it can't be that easy / it was that easy” moment in your life?
   ---
   Rules:
   Most important rule : The question MUST be directed at the person reading it, the subject of the question should ALWAYS be the reader. It must contain 'you' or 'your', or something asking THEM their experience.
@@ -21,4 +21,3 @@ chat_prompt: |
   <<STORY>>
   The question should ALWAYS START with "What"
   -Most probable very short and conssise open-ended question from the transcript (50 characters MAXIMUM):
-  
